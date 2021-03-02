@@ -1,6 +1,9 @@
-# cnesReaderPHP-XML
-Leitor do arquivo XML gerado pelo sistem CNES, do ministério da saúde.
+# Leitor do XML gerado pelo sistema do CNES
+Leitor do arquivo XML gerado pelo sistema do CNES, do ministério da saúde.
 
-Basta upar em qualquer site de hospedagem, então adicione o arquivo XML nesta pasta junto com o código disponibilizado com o nome cnes.xml. 
-E então, abrir o site que funcionará perfeitamente.
-Código simples e talvez não adotando as melhores práticas, mas serve apenas para auxiliar na visualização do arquivo XML, e verificar os meus profissionais por area e unidade de saúde.
+Basta hospedar este projeto, então adicionar o arquivo XML nomeado como cnes.xml na raiz do projeto.
+Basta abrir o site, e pronto. Leitor de CNES.
+Código simples em PHP, servindo apenas para auxiliar na visualização do arquivo XML, e verificar os profissionais por area e unidade de saúde.
+
+Projeto rodando:
+https://molinariandre.000webhostapp.com/
